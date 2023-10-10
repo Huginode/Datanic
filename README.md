@@ -12,5 +12,5 @@ Then if we start the programm, it outputs this:
 
 
 
-As we can see women were much more likely to get rescued. 96% for women in first class, 47% for women in second third class, and 35% for men in first class.
+As we can see women were much more likely to get rescued. 96% for women in first class, 47% for women in third class, and 35% for men in first class.
 But we can also remark something interesting: Men were more likely to get rescued if they were in third class rather than second class (17% vs 15%)
