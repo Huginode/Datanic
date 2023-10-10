@@ -10,13 +10,7 @@ I'm a huge fan of the Titanic (Olympic) Story. So I wanted to use a Titanic data
 ## Output
 Then if we start the programm, it outputs this:
 
-**    sex    pclass  survived  age                   
-      female 1       0.962406  37.037594
-             2       0.893204  27.499191
-             3       0.473684  22.185307
-      male   1       0.350993  41.029250
-             2       0.145570  30.815401
-             3       0.169054  25.962273 **
+
 
 As we can see women were much more likely to get rescued. 96% for women in first class, 47% for women in second third class, and 35% for men in first class.
 But we can also remark something interesting: Men were more likely to get rescued if they were in third class rather than second class (17% vs 15%)
