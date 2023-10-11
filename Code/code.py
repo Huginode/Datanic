@@ -5,7 +5,7 @@ import pandas as pd
 # Import Data
 data = pd.read_excel('titanic3.xls')
 
-# Remove all data that isn't neede
+# Remove all data that isn't needed
 data = data.drop(['name', 'sibsp', 'parch','embarked', 'ticket', 'fare', 'cabin', 'boat', 'body', 'home.dest'], axis = 1)
 
 # Clean data by removing passengers with unkwon age
